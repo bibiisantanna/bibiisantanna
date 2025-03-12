@@ -28,7 +28,7 @@
   
   ## Clique nos links abaixo e acompanhe meus projetos:
  
-<p>* <a href="https://fabiano-braga.github.io/HTML-CSS/desafios/index.html" target="_blank">HTML5 / CSS3</a></p> 
+<p>* <a href="https://bibiisantanna.github.io//desafios/index.html" target="_blank">HTML5 / CSS3</a></p> 
   
  <p>* <a href="https://fabiano-braga.github.io/JavaScript/desafios/index.html" target="_blank">JAVASCRIPT</a></p>
   
