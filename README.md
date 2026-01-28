@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bianca Santanna!
 
-<p>Sou analista de rede há 10 anos e trabalho na área de TI há 14 anos, no momento estou migrando para área de desenvolvimento web. </p>
+<p>Estudante de Estatística / Ciências Atuariais na UFRJ | Técnica em Informática | Python e análise de dados </p>
 
 - Estudando Análise e desenvolvimento de sistemas.
 
