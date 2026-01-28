@@ -24,12 +24,9 @@
   <a href="https://www.linkedin.com/in/bianca-sant-anna-8b68b51b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
-  # Repositório público do Fabiano Braga!
+  # Repositório 
   
   ## Clique nos links abaixo e acompanhe meus projetos:
  
-<p>* <a href="https://bibiisantanna.github.io/Otimizacao-de-Logistica-para-Entregas
-/Projeto-logistica/index.html" target="_blank">HTML5 / CSS3</a></p> 
-  
- <p>* <a href="https://fabiano-braga.github.io/JavaScript/desafios/index.html" target="_blank">JAVASCRIPT</a></p>
+
   
