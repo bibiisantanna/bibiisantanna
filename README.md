@@ -33,7 +33,6 @@ Olá! Sou **Bianca Sant'Anna**, estudante de **Estatística / Ciências Atuariai
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -52,20 +51,6 @@ Olá! Sou **Bianca Sant'Anna**, estudante de **Estatística / Ciências Atuariai
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibiisantanna&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 📊 [**Imersão Dados - Alura**](https://imers-o-dados-python-alura-bibiisantanna.streamlit.app/) | Dashboard interativo de análise de dados construído durante a Imersão Dados da Alura | Python, Streamlit, Pandas |
-
-</div>
-
-> 💡 Mais projetos chegando em breve! Acompanhe meu perfil para novidades.
 
 ---
 
