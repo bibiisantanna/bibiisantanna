@@ -48,10 +48,6 @@ Olá! Sou **Bianca Sant'Anna**, estudante de **Estatística / Ciências Atuariai
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibiisantanna&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibiisantanna&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 📬 Contato
